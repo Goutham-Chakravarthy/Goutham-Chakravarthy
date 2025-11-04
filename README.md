@@ -1,15 +1,17 @@
 <div align="center">
+
 <!-- 💠 CYBERPUNK HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,21&height=180&section=header&text=GOWTHAM%20CHAKRAVARTHY&fontSize=42&fontColor=8AB4F8&animation=twinkling&fontAlignY=32&desc=SYSTEM%20INITIATED%20●%20NEURAL%20LINK%20ACTIVE&descSize=14&descAlignY=51"/>
+
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=8AB4F8&center=true&vCenter=true&width=640&lines=%F0%9F%92%BB+Cybersecurity+Enthusiast;%F0%9F%8C%90+Full+Stack+Developer;%F0%9F%A4%96+AI+Explorer;%E2%9A%A1+Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
 </a>
+
 <br/>
+
 ```diff
 @@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY @@
-```
-</div>
 ---
 
 ### 🌌 **// SYSTEM_PROFILE.init()**
