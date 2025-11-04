@@ -22,45 +22,45 @@
 
 <div align="center">
 
-```python
-class GowthamChakravarthy:
-    def __init__(self):
-        self.role = "Security Architect | Full Stack Dev | AI Engineer"
-        self.mission = "Build. Break. Learn. Repeat."
-        self.current_focus = ["Ethical Hacking", "AI Automation", "Blockchain"]
-        self.philosophy = "If you can automate it, you should."
-    
-    def get_passion(self):
-        return "Turning ideas into tech that actually makes sense 🚀"
-```
-
-</div>
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/ROLE-8AB4F8?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Security Architect | Full Stack Dev | AI Engineer</b></sub>
+<td align="center" width="50%">
+
+### 💼 **Role**
+**Security Architect | Full Stack Dev | AI Engineer**
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/MISSION-5C8EF2?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Build. Break. Learn. Repeat.</b></sub>
+<td align="center" width="50%">
+
+### 🎯 **Mission**
+**Build. Break. Learn. Repeat.**
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/FOCUS-8AB4F8?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Ethical Hacking • AI Automation • Blockchain</b></sub>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🔍 **Current Focus**
+🔐 Ethical Hacking  
+🤖 AI Automation  
+⛓️ Blockchain
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/PHILOSOPHY-5C8EF2?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>If you can automate it, you should.</b></sub>
+<td align="center" width="50%">
+
+### 💡 **Philosophy**
+*"If you can automate it, you should."*
+
 </td>
 </tr>
 </table>
 
-**Passionate about cybersecurity, AI-driven systems, and web technologies**  
-*— anything that challenges how things work under the hood.*
+<br/>
+
+**🚀 Turning ideas into tech that actually makes sense**
+
+*Passionate about cybersecurity, AI-driven systems, and web technologies  
+— anything that challenges how things work under the hood.*
 
 </div>
 
@@ -214,10 +214,10 @@ goals:
 ---
 
 ```ascii
-              ╔══════════════════════════════════════════════════════════════╗
-              ║  "The only way to do great work is to love what you do."     ║
-              ║                    — Build. Break. Learn. Repeat.            ║
-              ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  "The only way to do great work is to love what you do."    ║
+║                    — Build. Break. Learn. Repeat.            ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 **⚡ SYSTEM UPTIME:** *Always learning, always building*
