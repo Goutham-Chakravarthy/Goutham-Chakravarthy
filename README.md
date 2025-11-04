@@ -9,7 +9,6 @@
 </a>
 
 <br/>
-
 ```diff
 @@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY @@
 ```
