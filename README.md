@@ -1,108 +1,205 @@
-<!-- 🌌 Cyberpunk-Themed GitHub Profile README for Goutham Chakravarthy -->
+<div align="center">
 
-<!-- Typing animation header -->
-<p align="center">
-  <a href="https://github.com/Goutham-Chakravarthy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Hey+there,+I'm+Goutham+Chakravarthy+👋;Cybersecurity+Enthusiast+🧠;Full+Stack+Developer+💻;AI+Explorer+🤖;Building+Smart+and+Secure+Tech+🛰️" alt="Typing SVG" />
-  </a>
-</p>
+<!-- 💠 CYBERPUNK HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,21&height=180&section=header&text=GOWTHAM%20CHAKRAVARTHY&fontSize=42&fontColor=8AB4F8&animation=twinkling&fontAlignY=32&desc=SYSTEM%20INITIATED%20●%20NEURAL%20LINK%20ACTIVE&descSize=14&descAlignY=51"/>
 
----
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=8AB4F8&center=true&vCenter=true&width=640&lines=%F0%9F%92%BB+Cybersecurity+Enthusiast;%F0%9F%8C%90+Full+Stack+Developer;%F0%9F%A4%96+AI+Explorer;%E2%9A%A1+Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
+</a>
 
-### 💫 About Me  
+<br/>
 
-> “Build. Break. Learn. Repeat.”  
+```diff
+@@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY @@
+```
 
-I’m **Goutham Chakravarthy**, a developer who thrives where creativity meets logic.  
-My passion lies in **Cybersecurity**, **AI**, and **Web Development** — building systems that are both intelligent and secure.  
-
----
-
-### ⚡ Featured Projects  
-
-🚀 **Krushi Vikas** — AI-powered assistant helping farmers through smart agricultural tech.  
-🧬 **MediChain** — Blockchain-based healthcare platform with **Dynamic Consent Management** for secure, decentralized health data.  
-🏫 **Albion University Network** — Simulated university network using Cisco Packet Tracer with VLANs, RIPv2, and DHCP.  
-
-💡 Always exploring how to merge **AI + Security + Blockchain** for next-gen innovation.
+</div>
 
 ---
 
-### 🛠️ Tech Playground  
+### 🌌 **// SYSTEM_PROFILE.init()**
 
-**💻 Languages:**  
-![Java](https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white)
+```python
+class GowthamChakravarthy:
+    def __init__(self):
+        self.role = "Security Architect | Full Stack Dev | AI Engineer"
+        self.mission = "Build. Break. Learn. Repeat."
+        self.current_focus = ["Ethical Hacking", "AI Automation", "Blockchain"]
+        self.philosophy = "If you can automate it, you should."
+    
+    def get_passion(self):
+        return "Turning ideas into tech that actually makes sense 🚀"
+```
 
-**🧰 Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-6C63FF?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-6C63FF?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6C63FF?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-**🔒 Security Toolkit:**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-6C63FF?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-6C63FF?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-6C63FF?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-6C63FF?style=for-the-badge)
+**Passionate about cybersecurity, AI-driven systems, and web technologies**  
+*— anything that challenges how things work under the hood.*
 
----
-
-### 📊 GitHub Vibes  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goutham-Chakravarthy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-Chakravarthy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Goutham-Chakravarthy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+</div>
 
 ---
 
-### 🎯 Goals for 2025  
+### ⚡ **// ACTIVE_PROJECTS.log**
 
-🌐 Contribute to open-source cybersecurity tools  
-🤖 Build an AI-powered automation platform  
-🧩 Deep dive into penetration testing  
-💬 Share what I learn through projects & posts  
+<table>
+<tr>
+<td width="50%">
+
+#### 🌾 **Krushi Vikas**
+> AI-powered farmer assistant helping farmers through smart tech
+
+- 🤖 Machine Learning Integration
+- 📱 Real-time Crop Recommendations
+- 🌐 Multi-language Support
+
+</td>
+<td width="50%">
+
+#### 🧬 **MediChain**
+> Blockchain-based healthcare platform
+
+- ⛓️ Dynamic Consent Management
+- 🔐 Decentralized Patient Records
+- 💊 Secure Health Data Exchange
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏫 **Albion University Network**
+> Full-scale virtual network simulation
+
+- 🌐 VLANs + RIPv2 + DHCP
+- 🖥️ Cisco Packet Tracer
+- 📡 Enterprise-level Infrastructure
+
+</td>
+<td width="50%">
+
+#### 💡 **Exploring**
+> Fusion of AI + Security + Creativity
+
+- 🤖 Smart Assistants
+- 🔗 Decentralized Apps
+- ⚙️ Intelligent Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Currently Exploring  
+### 🛠️ **// TECH_STACK.array**
 
-`AI + Security + Blockchain = The Future of Trust.`  
+<div align="center">
 
----
+#### **Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎧 Now Playing  
+#### **Frameworks & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31r2lpx3wc4d4h5c5mlv5idg6d5e">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r2lpx3wc4d4h5c5mlv5idg6d5e&cover_image=true&theme=novatorem&bar_color=6C63FF&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
+#### **Security Arsenal**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
----
+#### **Currently Exploring**
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00FF00?style=for-the-badge&logo=hackaday&logoColor=black)
+![AI Automation](https://img.shields.io/badge/AI_Automation-FF6F61?style=for-the-badge&logo=robot&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
 
-### ☕ Fun Corner  
-
-🎵 Coding fuel: Lo-fi & Cyber Loops  
-🎮 Hobby: Breaking test networks (ethically 😅)  
-💬 Motto: *If you can automate it, you should.*  
-
----
-
-### 🔗 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgoutham-chakravarthy)  
-[![Twitter](https://img.shields.io/badge/Twitter-6C63FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Chakrav15Gowth?t=MW8ZdY0XxfwtgXHWo3pT_g&s=09)  
-[![Gmail](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakravarthyg31@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goutham-Chakravarthy)
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+### 📊 **// GITHUB_STATS.render()**
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Goutham-Chakravarthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8&icon_color=5C8EF2&text_color=A7B9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Goutham-Chakravarthy&theme=tokyonight&hide_border=true&background=0D1117&ring=8AB4F8&fire=5C8EF2&currStreakLabel=A7B9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-Chakravarthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8&text_color=A7B9FF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Goutham-Chakravarthy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8AB4F8&line=5C8EF2&point=A7B9FF" />
+
+</div>
+
+---
+
+### 🎯 **// MISSION_2025.todo**
+
+<div align="center">
+
+```yaml
+goals:
+  - "Contribute to open-source cybersecurity tools 🛡️"
+  - "Build my own AI-powered app from scratch 🤖"
+  - "Learn penetration testing at a deeper level 🔐"
+  - "Teach what I learn — one post at a time 📝"
+```
+
+</div>
+
+---
+
+### 🧩 **// NETWORK_LINKS.connect()**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham@example.com)
+
+</div>
+
+---
+
+### ☕ **// DEVELOPER_MODE.status**
+
+<div align="center">
+
+| 🎵 **Coding Fuel** | 🎮 **Offline Mode** | 📖 **Core Philosophy** |
+|:---:|:---:|:---:|
+| Lo-fi + Night-time playlists | Breaking test networks on Kali 😅 | *If you can automate it, you should.* |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **// RANDOM_WISDOM.fetch()**
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&borderColor=5C8EF2&quoteColor=8AB4F8" alt="Random Dev Quote"/>
+</a>
+
+---
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  "The only way to do great work is to love what you do."    ║
+║                    — Build. Break. Learn. Repeat.            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**⚡ SYSTEM UPTIME:** *Always learning, always building*
+
+<img src="https://komarev.com/ghpvc/?username=Goutham-Chakravarthy&style=for-the-badge&color=5C8EF2&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<!-- Cyberpunk Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,21&height=120&section=footer"/>
+
+</div>
