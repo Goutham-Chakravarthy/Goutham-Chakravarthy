@@ -12,6 +12,10 @@
 
 ```diff
 @@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY @@
+```
+
+</div>
+
 ---
 
 ### 🌌 **// SYSTEM_PROFILE.init()**
