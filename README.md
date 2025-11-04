@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 💠 CYBERPUNK HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,21&height=180&section=header&text=GOWTHAM%20CHAKRAVARTHY&fontSize=42&fontColor=8AB4F8&animation=twinkling&fontAlignY=32&desc=SYSTEM%20INITIATED%20●%20NEURAL%20LINK%20ACTIVE&descSize=14&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8AB4F8,50:5C8EF2,100:8AB4F8&height=180&section=header&text=GOWTHAM%20CHAKRAVARTHY&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=SYSTEM%20INITIATED%20●%20NEURAL%20LINK%20ACTIVE&descSize=14&descAlignY=51"/>
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -214,17 +214,20 @@ goals:
 ---
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  "The only way to do great work is to love what you do."    ║
-║                    — Build. Break. Learn. Repeat.            ║
-╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+        ╔══════════════════════════════════════════════════════════════╗
+        ║  "The only way to do great work is to love what you do."     ║
+        ║                    — Build. Break. Learn. Repeat.            ║
+        ╚══════════════════════════════════════════════════════════════╝
+</div>
 ```
+
 
 **⚡ SYSTEM UPTIME:** *Always learning, always building*
 
 <img src="https://komarev.com/ghpvc/?username=Goutham-Chakravarthy&style=for-the-badge&color=5C8EF2&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <!-- Cyberpunk Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,21&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8AB4F8,50:5C8EF2,100:8AB4F8&height=120&section=footer"/>
 
 </div>
