@@ -1,7 +1,7 @@
 <!-- Cyberpunk-Themed GitHub Profile README -->
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=6C63FF&center=true&vCenter=true&lines=Hey%2C+I'm+Gowtham+Chakravarthy+👋;Cybersecurity+Enthusiast+🧠;Full+Stack+Developer+💻;AI+Explorer+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=6C63FF&center=true&vCenter=true&lines=Hey%2C+I'm+Gowtham+Chakravarthy+👋;+Cybersecurity+Enthusiast+🧠;Full+Stack+Developer+💻;AI+Explorer+🤖)](https://git.io/typing-svg)
 
 ---
 
