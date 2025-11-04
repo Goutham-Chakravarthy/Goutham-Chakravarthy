@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 💠 CYBERPUNK HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8AB4F8,50:5C8EF2,100:8AB4F8&height=180&section=header&text=GOWTHAM%20CHAKRAVARTHY&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=SYSTEM%20INITIATED%20●%20NEURAL%20LINK%20ACTIVE&descSize=14&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8AB4F8,50:5C8EF2,100:8AB4F8&height=180&section=header&text=GOUTHAM%20CHAKRAVARTHY&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=SYSTEM%20INITIATED%20●%20NEURAL%20LINK%20ACTIVE&descSize=14&descAlignY=51"/>
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -182,10 +182,10 @@ goals:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Goutham-Chakravarthy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sgoutham-chakravarthy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Chakrav15Gowth?t=MW8ZdY0XxfwtgXHWo3pT_g&s=09)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakravarthyg31@gmail.com)
 
 </div>
 
