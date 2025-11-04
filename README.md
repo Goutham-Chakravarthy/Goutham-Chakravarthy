@@ -1,199 +1,96 @@
-<div align="center">
+<!-- Cyberpunk-Themed GitHub Profile README -->
 
-<!-- Cyberpunk Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,21&height=180&section=header&text=GOWTHAM%20CHAKRAVARTHY&fontSize=42&fontColor=B794F6&animation=twinkling&fontAlignY=32&desc=SYSTEM%20INITIATED%20●%20NEURAL%20LINK%20ACTIVE&descSize=14&descAlignY=51"/>
-
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D7FF5&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%BB+Cybersecurity+Enthusiast;%F0%9F%8C%90+Full+Stack+Developer;%F0%9F%A4%96+AI+Explorer;%E2%9A%A1+Build.+Break.+Learn.+Repeat." alt="Typing SVG" /></a>
-
-<br/>
-
-```diff
-@@ STATUS: ONLINE ● READY TO DEPLOY @@
-```
-
-</div>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=6C63FF&center=true&vCenter=true&lines=Hey%2C+I'm+Gowtham+Chakravarthy+👋;Cybersecurity+Enthusiast+🧠;Full+Stack+Developer+💻;AI+Explorer+🤖)](https://git.io/typing-svg)
 
 ---
 
-### 🌌 **// SYSTEM_PROFILE.init()**
+### 💫 About Me  
 
-```python
-class GowthamChakravarthy:
-    def __init__(self):
-        self.role = "Security Architect | Full Stack Dev | AI Engineer"
-        self.mission = "Build. Break. Learn. Repeat."
-        self.current_focus = ["Ethical Hacking", "AI Automation", "Blockchain"]
-        self.philosophy = "If you can automate it, you should."
-    
-    def get_passion(self):
-        return "Turning ideas into tech that actually makes sense 🚀"
-```
+> “Build. Break. Learn. Repeat.”  
 
-<div align="center">
+Hey there! I’m **Gowtham Chakravarthy**, a developer who thrives at the crossroads of creativity and logic.  
+I’m passionate about **cybersecurity**, **AI-driven innovation**, and **web development** that actually solves real problems.  
 
-**I'm passionate about cybersecurity, AI-driven systems, and web technologies**  
-*— anything that challenges how things work under the hood.*
-
-</div>
+I believe in building things that *work smart*, not just *look smart*.  
 
 ---
 
-### ⚡ **// ACTIVE_PROJECTS.log**
+### ⚡ Projects That Define Me  
 
-<table>
-<tr>
-<td width="50%">
+🚀 **Krushi Vikas** — AI-powered farmer assistant that empowers farmers through smart tech.  
+🧬 **MediChain** — Blockchain-based healthcare platform featuring **Dynamic Consent Management**.  
+🏫 **Albion University Network** — Simulated university network in Cisco Packet Tracer (VLANs, RIPv2, DHCP).  
 
-#### 🌾 **Krushi Vikas**
-> AI-powered farmer assistant helping farmers through smart tech
-- 🤖 Machine Learning Integration
-- 📱 Real-time Crop Recommendations
-- 🌐 Multi-language Support
-
-</td>
-<td width="50%">
-
-#### 🧬 **MediChain**
-> Blockchain-based healthcare platform
-- ⛓️ Dynamic Consent Management
-- 🔐 Decentralized Patient Records
-- 💊 Secure Health Data Exchange
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏫 **Albion University Network**
-> Full-scale virtual network simulation
-- 🌐 VLANs + RIPv2 + DHCP
-- 🖥️ Cisco Packet Tracer
-- 📡 Enterprise-level Infrastructure
-
-</td>
-<td width="50%">
-
-#### 💡 **Exploring**
-> Fusion of AI + Security + Creativity
-- 🤖 Smart Assistants
-- 🔗 Decentralized Apps
-- ⚙️ Intelligent Automation
-
-</td>
-</tr>
-</table>
+💡 Always exploring how to fuse **AI + Security + Blockchain** to build future-ready systems.
 
 ---
 
-### 🛠️ **// TECH_STACK.array**
+### 🛠️ Tech Playground  
 
-<div align="center">
+**💻 Languages:**  
+![Java](https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**🧰 Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-6C63FF?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6C63FF?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6C63FF?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### **Frameworks & Tools**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### **Security Arsenal**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-#### **Currently Exploring**
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00FF00?style=for-the-badge&logo=hackaday&logoColor=black)
-![AI Automation](https://img.shields.io/badge/AI_Automation-FF6F61?style=for-the-badge&logo=robot&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
-
-</div>
+**🔒 Security Toolkit:**  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-6C63FF?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-6C63FF?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-6C63FF?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-6C63FF?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 
-### 📊 **// GITHUB_STATS.render()**
+### 📊 GitHub Vibes  
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F6&icon_color=7C3AED&text_color=A5B4FC" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=B794F6&fire=7C3AED&currStreakLabel=A5B4FC" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F6&text_color=A5B4FC" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B794F6&line=7C3AED&point=A5B4FC" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 🎯 **// MISSION_2025.todo**
+### 🎯 2025 Goals  
 
-<div align="center">
-
-```yaml
-goals:
-  - "Contribute to open-source cybersecurity tools 🛡️"
-  - "Build my own AI-powered app from scratch 🤖"
-  - "Learn penetration testing at a deeper level 🔐"
-  - "Teach what I learn — one post at a time 📝"
-```
-
-</div>
+🌐 Contribute to open-source cybersecurity tools  
+🤖 Build an AI-powered automation platform  
+🧩 Master penetration testing  
+💬 Share what I learn through projects & posts  
 
 ---
 
-### 🧩 **// NETWORK_LINKS.connect()**
+### 🧠 Currently Exploring  
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham@example.com)
-
-</div>
+`AI + Security + Blockchain = The Future of Trust.`  
 
 ---
 
-### ☕ **// DEVELOPER_MODE.status**
+### ☕ Fun Corner  
 
-<div align="center">
-
-| 🎵 **Coding Fuel** | 🎮 **Offline Mode** | 📖 **Core Philosophy** |
-|:---:|:---:|:---:|
-| Lo-fi + Night-time playlists | Breaking test networks on Kali 😅 | *If you can automate it, you should.* |
-
-</div>
+🎵 Coding fuel: Lo-fi + Night City Vibes  
+🎮 Hobby: Breaking test networks (ethically 😅)  
+💬 Motto: *If you can automate it, you should.*  
 
 ---
 
-<div align="center">
+### 🔗 Connect With Me  
 
-### 💭 **// RANDOM_WISDOM.fetch()**
-
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/Twitter-6C63FF?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO)  
+[![Gmail](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  "The only way to do great work is to love what you do."    ║
-║                           — Build. Break. Learn. Repeat.     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**⚡ SYSTEM UPTIME:** *Always learning, always building*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<!-- Cyberpunk Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,21&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
