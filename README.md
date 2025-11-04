@@ -64,10 +64,9 @@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY
 
 </div>
 
----
 
 ### ⚡ **ACTIVE_PROJECTS.log**
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -114,8 +113,7 @@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY
 </td>
 </tr>
 </table>
-
----
+</div>
 
 ### 🛠️ **TECH_STACK.array**
 
@@ -148,17 +146,31 @@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY
 
 ---
 
-### 📊 **// GITHUB_STATS.render()**
+### 📊 **GITHUB_STATS.render()**
 
+<!-- 🌌 Side-by-Side GitHub Stats + Languages (Neon Violet Blue Theme) -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Goutham-Chakravarthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8&icon_color=5C8EF2&text_color=A7B9FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Goutham-Chakravarthy&theme=tokyonight&hide_border=true&background=0D1117&ring=8AB4F8&fire=5C8EF2&currStreakLabel=A7B9FF" />
+  <a href="https://github.com/Goutham-Chakravarthy">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Goutham-Chakravarthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8&icon_color=5C8EF2&text_color=A7B9FF" 
+      alt="Goutham Chakravarthy's GitHub Stats" 
+      height="200"
+      style="display:inline-block; margin-right:10px;" />
+  </a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-Chakravarthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8&text_color=A7B9FF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Goutham-Chakravarthy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8AB4F8&line=5C8EF2&point=A7B9FF" />
+  <a href="https://github.com/Goutham-Chakravarthy">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-Chakravarthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8&text_color=A7B9FF" 
+      alt="Most Used Languages" 
+      height="200"
+      style="display:inline-block;" />
+  </a>
 
 </div>
+
+
+
 
 ---
 
