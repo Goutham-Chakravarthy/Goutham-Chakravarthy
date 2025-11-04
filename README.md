@@ -20,6 +20,8 @@
 
 ### 🌌 **// SYSTEM_PROFILE.init()**
 
+<div align="center">
+
 ```python
 class GowthamChakravarthy:
     def __init__(self):
@@ -32,7 +34,30 @@ class GowthamChakravarthy:
         return "Turning ideas into tech that actually makes sense 🚀"
 ```
 
+</div>
+
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ROLE-8AB4F8?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>Security Architect | Full Stack Dev | AI Engineer</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MISSION-5C8EF2?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>Build. Break. Learn. Repeat.</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FOCUS-8AB4F8?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>Ethical Hacking • AI Automation • Blockchain</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PHILOSOPHY-5C8EF2?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>If you can automate it, you should.</b></sub>
+</td>
+</tr>
+</table>
 
 **Passionate about cybersecurity, AI-driven systems, and web technologies**  
 *— anything that challenges how things work under the hood.*
@@ -189,10 +214,10 @@ goals:
 ---
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  "The only way to do great work is to love what you do."    ║
-║                    — Build. Break. Learn. Repeat.            ║
-╚══════════════════════════════════════════════════════════════╝
+              ╔══════════════════════════════════════════════════════════════╗
+              ║  "The only way to do great work is to love what you do."     ║
+              ║                    — Build. Break. Learn. Repeat.            ║
+              ╚══════════════════════════════════════════════════════════════╝
 ```
 
 **⚡ SYSTEM UPTIME:** *Always learning, always building*
