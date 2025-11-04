@@ -3,7 +3,7 @@
 <!-- Typing animation header -->
 <p align="center">
   <a href="https://github.com/Goutham-Chakravarthy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Hey+there,+I'm+Gowtham+Chakravarthy+👋;Cybersecurity+Enthusiast+🧠;Full+Stack+Developer+💻;AI+Explorer+🤖;Building+Smart+and+Secure+Tech+🛰️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Hey+there,+I'm+Goutham+Chakravarthy+👋;Cybersecurity+Enthusiast+🧠;Full+Stack+Developer+💻;AI+Explorer+🤖;Building+Smart+and+Secure+Tech+🛰️" alt="Typing SVG" />
   </a>
 </p>
 
