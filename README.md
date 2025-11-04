@@ -11,14 +11,14 @@
 <br/>
 
 ```diff
-@@ SYSTEM STATUS: ONLINE ● READY TO DEPLOY @@
+SYSTEM STATUS: ONLINE ● READY TO DEPLOY 
 ```
 
 </div>
 
 ---
 
-### 🌌 **// SYSTEM_PROFILE.init()**
+### 🌌 **SYSTEM_PROFILE.init()**
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-### ⚡ **// ACTIVE_PROJECTS.log**
+### ⚡ **ACTIVE_PROJECTS.log**
 
 <table>
 <tr>
@@ -117,7 +117,7 @@
 
 ---
 
-### 🛠️ **// TECH_STACK.array**
+### 🛠️ **TECH_STACK.array**
 
 <div align="center">
 
@@ -162,7 +162,7 @@
 
 ---
 
-### 🎯 **// MISSION_2025.todo**
+### 🎯 **MISSION_2025.todo**
 
 <div align="center">
 
@@ -178,7 +178,7 @@ goals:
 
 ---
 
-### 🧩 **// NETWORK_LINKS.connect()**
+### 🧩 **NETWORK_LINKS.connect()**
 
 <div align="center">
 
@@ -191,7 +191,7 @@ goals:
 
 ---
 
-### ☕ **// DEVELOPER_MODE.status**
+### ☕ **DEVELOPER_MODE.status**
 
 <div align="center">
 
@@ -205,7 +205,7 @@ goals:
 
 <div align="center">
 
-### 💭 **// RANDOM_WISDOM.fetch()**
+### 💭 **RANDOM_WISDOM.fetch()**
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&borderColor=5C8EF2&quoteColor=8AB4F8" alt="Random Dev Quote"/>
@@ -214,12 +214,11 @@ goals:
 ---
 
 ```ascii
-<div align="center">
-        ╔══════════════════════════════════════════════════════════════╗
-        ║  "The only way to do great work is to love what you do."     ║
-        ║                    — Build. Break. Learn. Repeat.            ║
-        ╚══════════════════════════════════════════════════════════════╝
-</div>
+
+                                      ╔══════════════════════════════════════════════════════════════╗
+                                      ║  "The only way to do great work is to love what you do."     ║
+                                      ║                    — Build. Break. Learn. Repeat.            ║
+                                      ╚══════════════════════════════════════════════════════════════╝
 ```
 
 
